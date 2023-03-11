@@ -1,0 +1,63 @@
+
+body{
+    width: 100%;
+    margin: 5px;
+}
+html, body {
+    margin: 100;
+    padding: 0;
+  }
+
+
+
+header{
+font-size: 200%;
+text-align:center;
+font-family:Georgia;
+background-color: rgb(29, 88, 216);
+
+}
+ section{
+ font-size: 150%;
+text-align:center;
+font-family:Georgia;
+background-color: rgb(255, 255, 255);
+
+ }
+ .img{
+    height: 300px;
+    margin-left:4ch;
+    margin-right: 10ch;
+    
+ }
+ .listas{
+    text-align: left;
+    font-size: 155%;
+    background-color: rgb(255, 255, 255);
+ }
+ .linha{
+    height:100px; 
+    width:2px;
+    text-align: left;
+ }
+ .form{
+    text-align: right;
+    
+    position:absolute;
+
+
+ }
+ nav{
+    font-size: 70%;
+    background-color: rgb(50, 166, 201);
+
+
+ }
+
+
+.imagem{
+    height: 50px;
+    margin-left:4ch;
+    margin-right: 10ch;
+
+}
